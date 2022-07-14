@@ -4,7 +4,7 @@ global.mods = ['6283183321692']
 global.prems = ['6283183321692'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'owner ganteng'
+global.nameowner = '☞︎︎︎«««𓇽««✰𝙱𝚢𝚎✰»»𓇽»»»☜︎︎︎'
 global.numberowner = '6283183321692'
 global.instagram = 'https://instagram.com'
 global.github = 'https://github.com/Hyzerr'
@@ -13,7 +13,7 @@ global.pulsa = '083183321692'
 global.gopay = '083183321692'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'B O T [ G C ]'
+global.namebot = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
 global.gc = 'bit.ly/AnyaBot-Group'
 global.web = 'https://github.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
 global.watermark = wm
-global.wm2 = '                     「 BOT-𝙼𝙳 あ⁩ 」'
-global.wm3 = 'BOT-𝙼𝙳'
+global.wm2 = '                     「 ✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰ 」'
+global.wm3 = 'bot-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = 'B O T [ G C ]'
+global.author = '✰𝔹𝕆𝕋𓇽𝕄𝕌𝕃𝕋𝕀 𝔻𝔼𝕍𝕀ℂ𝔼✰'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
